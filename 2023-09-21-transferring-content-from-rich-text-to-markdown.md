@@ -107,7 +107,7 @@ const markdownRenderer = {
 
 ## Code Blocks
 
-For the code I pretty much copied the official documentation that covers both code blocks and inline code. The `className` is a neat property that's detected off the language written after the 3 backticks in Markdown. A cool thing was that react-syntax-highlighter worked perfectly here as well but I took this oppurtunity to use a theme from prism instead of hljs since the former supported jsx.
+For the code I pretty much copied the official documentation that covers both code blocks and inline code. The `className` is a neat property that's detected off the language written after the 3 backticks in Markdown. A cool thing was that [react-syntax-highlighter](https://github.com/react-syntax-highlighter/react-syntax-highlighter) worked perfectly here as well but I took this oppurtunity to use a [theme from prism](https://github.com/react-syntax-highlighter/react-syntax-highlighter/blob/master/AVAILABLE_STYLES_PRISM.MD) instead of hljs since the former supported jsx.
 
 ```javascript
 const markdownRenderer = {
