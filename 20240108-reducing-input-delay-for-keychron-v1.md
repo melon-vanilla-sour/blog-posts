@@ -2,7 +2,6 @@
 title: Reducing Input Delay for the Keychron V1
 category: software
 tags:
-  - windows
   - software
   - qmk
   - keyboard
@@ -18,9 +17,7 @@ The entire modification pretty much hinges on [this article by Michael Stapelber
 
 ## Modifying QMK Code
 
-I followed the [official documentation](https://docs.qmk.fm/#/newbs_getting_started) to edit, compile and flash the firmware.
-
-First I downloaded and installed the [latest QMK_MSYS](https://github.com/qmk/qmk_distro_msys/releases/tag/1.8.0) which seems to be an easy executable that prepares the CLI environment. I then forked the [qmk repository](https://github.com/qmk/qmk_firmware) to my own github account and then cloned it to my local machine.
+I followed the [official documentation](https://docs.qmk.fm/#/newbs_getting_started) to edit, compile and flash the firmware. First I downloaded and installed the [latest QMK_MSYS](https://github.com/qmk/qmk_distro_msys/releases/tag/1.8.0) which seems to be an easy executable that prepares the CLI environment. I then forked the [qmk repository](https://github.com/qmk/qmk_firmware) to my own github account and then cloned it to my local machine.
 
 ```bash
 $ git clone --recurse-submodules https://github.com/<my_username>/qmk_firmware.git
@@ -34,15 +31,13 @@ $ qmk setup -H qmk_firmware/
 
 Then I navigated to `/keyboards/keychron/v1/ansi`, made a new branch and edited `config.h` and `rules.mk` according to the example pull request in the article.
 
-`config.h`
-
 ```cpp
+// config.h
 #define USB_POLLING_INTERVAL_MS 1
 ```
 
-`rules.mk`
-
 ```makefile
+// rules.mk
 DEBOUNCE_TYPE = sym_eager_pk
 ```
 
@@ -55,6 +50,8 @@ $ qmk compile -kb keychron/v1/ansi -km default
 ## Flashing the Keyboard
 
 Now all I had to do was install the new firmware into the keyboard. First I installed QMK Toolbox then loaded the ` keychron_v1_ansi_default.bin` firmware into it. Then I followed the [Keychron documentation](https://www.keychron.com/blogs/archived/how-to-factory-reset-or-flash-your-qmk-via-enabled-keychron-v1-keyboard) to flashing the keyboard which was basically as follows.
+
+![20240108-qmk-toolkit-flash](//images.ctfassets.net/vt3fzpmlfg71/4HJjOg9dViwuL0zqtKURBB/54a52e77ef3de8415e04f772a1e9378a/20240108-qmk-toolkit-flash.png)
 
 1. Hold `fn + J + Z` for 4 seconds to factory reset the keyboard then unplug the power.
 2. Hold the reset button under the spacebar.
