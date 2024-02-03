@@ -1,3 +1,14 @@
+---
+title: Transferring Content from Rich Text to Markdown
+category: programming
+tags: 
+  - next.js
+  - programming
+  - contentful
+  - blog
+created: 2023-09-21
+---
+
 ## some heading
 
 In a previous post about building my mechanical keyboard, I mentioned using Tecsee Ice Grapes for my switches.

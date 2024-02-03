@@ -1,3 +1,13 @@
+---
+title: Resident Evil 4 Remake Review
+category: games
+tags:
+  - games
+  - review
+  - resident evil 4
+created: 2023-04-01
+---
+
 The original Resident Evil 4 was probably my first introduction to horror games back when I played it on the PS2. 18 years later and naturally the remake was one of my most anticipated games this spring and boy does it deliver. I had so much fun that I finished the game over two, six hour sessions over a weekend. It’s only April but this is already a serious contender for my 2023 GOTY.
 
 Resident Evil 4 Remake is like a ride at an amusement park with no boring parts. A lot of times when I’m playing an open world tower climbing simulator™ I find myself wondering what purpose a certain part of the game serves, whether it be pointless travel from point A to B, or tedious exposition by unmemorable characters. RE4 has none of that, it spanned roughly 12 hours on my first play through and its a consistent stream of fun sequences after another. There are enemy swarms to gun down, simple puzzles to mix-up the pace, sections veiled with horror elements, and yup even escort sequences.

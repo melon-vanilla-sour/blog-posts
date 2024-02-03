@@ -1,3 +1,15 @@
+---
+title: Making My Blog with Next.js, Vercel and Contentful
+category: programming
+tags:
+  - next.js
+  - blog
+  - contentful
+  - programming
+  - vercel
+created: 2023-04-27
+---
+
 It's pretty much a rite of passage for new developers to make a tech blog that's rarely updated so here's my personal attempt at it. I had to build a lot of seemingly simple features that would otherwise be included in most blogging frameworks e.g. a list of posts according to categories, so it was a great learning experience that I could recommend as a beginner-level project.
 
 ## Overview

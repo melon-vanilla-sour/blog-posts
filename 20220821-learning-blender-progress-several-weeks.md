@@ -1,5 +1,5 @@
 ---
-title: Learning Blender Progress: Several Weeks
+title: Learning Blender Progress Several Weeks
 category: digital art
 tags:
   - digital art
