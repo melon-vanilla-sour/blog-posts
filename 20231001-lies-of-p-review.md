@@ -8,13 +8,14 @@ tags:
 created: 2023-10-01
 ---
 
-![20231005-lies-of-p-thumbnail](//images.ctfassets.net/vt3fzpmlfg71/08QSzLyL399ECloiQAMcM/3787fe169f900ecf29a5e2dcdb6f98e3/20230919011105_1.jpg)
+![titlescreen](./images/20231001-lies-of-p-title.jpg
+)
 
 The Dark Souls series is one of my most favorite series in games so I'm always looking for a new title in the Soulslike genre to get that next dopamine hit. Lies of P is one such game I've just beat so here's my thoughts on it. I have both good points and bad points to say but I'd like to preface this review by saying I genuinely enjoyed this game despite the mountain of criticism I have for it. Lies of P is pretty much the most enjoyable Soulslike I've played; it's the closest to come to the original in terms of harboring the essence of the series. My criticisms mainly come from a hope of what could have been.
 
 In Lies of P you play as a puppet reawakened in the city of Krat; a Victorian steampunk society where puppets used to coexist with humans, but has since been overrun by a machine revolution. The mechanics are faithful and don't stray far from the original (for better or worse depending on your liking for innovation). You have the same basic stats that dictate health, stamina, carry weight and so on. The gameplay loop is exploring from stargazer (this game's bonfire) to stargazer with a limited healing flask whilst periodically challenging bosses and minibosses.
 
-![20231005-lies-of-p-krat](//images.ctfassets.net/vt3fzpmlfg71/1Q3QPTi2Rv0TtMFYf2yVVA/05dd0490a024a13b90ccb7d0be5262e7/20230919003906_1.jpg)
+![krat](https://melon-sour-blog-images.s3.amazonaws.com/20231001-lies-of-p-krat.jpg)
 
 ## Graphics
 
@@ -24,13 +25,13 @@ Made in Unreal Engine, this game delivers on graphic fidelty one can expect in 2
 
 For weapons you have a variety of weight and animations ranging from light umbrellas to heavy cleavers. The twist is that weapons can be disassembled into a blade and handle that can then be combined to mixup weapon arts (fables) and animations. You also have an arsenal of mechanical arms (legions) like a flamethrower or shield.
 
-![20231005-lies-of-p-arm](//images.ctfassets.net/vt3fzpmlfg71/2X4bR6NEMaa03owqUJYdeW/90d2dee3b3ff2b8bd5f809f8e79b1175/20230919011652_1.jpg)
+![arm](https://melon-sour-blog-images.s3.amazonaws.com/20231001-lies-of-p-arm.jpg)
 
 In true souls fashion you have the three standard defensive options of dodging, guarding and perfect guarding. Perfect guarding and charge attacks build up a hidden stagger meter which when filled up means another charge attack will put enemies in an immobile state, open to a fatal blow. The basic loop is the tried and true formula of choosing the appropriate defensive option to bypass the enemies attack and weaving in your own when possible.
 
 The first issue I have is that P is so sluggish and weighty. Heavy weapons take forever to swing (with no heavy armor), there's a hidden time lag before your guard comes up, a hidden cooldown after swinging where you can't dodge, your dodge goes nowhere, the inability to dodge out of a grounded state (unless upgraded). I say hidden because a cooldown is expected but it's much more than what you'd expect out of any other game. If any of you play Smash it's like every attack being as laggy as Ganon.
 
-![20231005-lies-of-p-gamescreen](//images.ctfassets.net/vt3fzpmlfg71/vvhGgqkYw4jv1dmFWHtgv/8b0316224c3435721c4fc685f9813504/20230919003216_1.jpg)
+![first enemy](https://melon-sour-blog-images.s3.amazonaws.com/20231001-lies-of-p-first-enemy.jpg)
 
 The second issue is that the bosses are designed under this meta assumption that people have played and beaten Souls games. It's like how early titles of the Souls series had predictable and telegraphed movesets but Elden Ring is filled to the brim with delayed attacks and mixups. The developers must think that having a normal moveset is boring because every single enemy in the game has delayed attacks in that stereotypical stuttery broken-puppet movement. These moves are basically the jumpscares of actions games, sure they might work to ramp the difficulty but it's cheap and a well designed boss fight shouldn't have to rely on them, at least not to the degree they appear in this game.
 
@@ -40,7 +41,7 @@ Now you might be wondering how these are inherent issues. You can just learn the
 
 If you're a fan of the Souls series but have exhausted their options then definitely pick this up, Elden Ring DLC isn't here anytime soon and there's basically a severe drought of games that implement the formula well. In that regard Lies of P hits that note better than say Nioh or The Surge and is the closest thing to Dark Souls 2 2. However if you haven't played the Souls series then I can't in good faith recommend this game because the original does everything better and there's an unnecessary hurdle to overcome in the gameplay.
 
-![20231005-lies-of-p-watchman](//images.ctfassets.net/vt3fzpmlfg71/3DQcbSxNJGUTNSfx9K57UF/c0ad06baf6366af56ff34b169421bc29/20230919025721_1.jpg)
+![watchman](https://melon-sour-blog-images.s3.amazonaws.com/20231001-lies-of-p-watchman.jpg)
 
 ## Miscellaneous Tips
 
