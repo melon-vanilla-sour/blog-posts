@@ -1,0 +1,7 @@
+*.png
+*.jpeg
+*.jpg
+.env
+*.js
+*.mjs
+node_modules
