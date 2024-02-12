@@ -17,7 +17,6 @@ HP model:5ZU98AA-AAAI
 - TN
 - 23.8inches
 
-![20231002-hp-monitor](//images.ctfassets.net/vt3fzpmlfg71/3UoaPipHUcIBZm1H8PjkgP/89871fe3aeac72f10f75cfb95180b06e/maintop.jpg)
 
 I got this mainly for the 144hz refresh rate that was at an affordable price point (22,880yen). TN panels have a slightly better pixel response time compared to IPS, but in return have lower contrast and color quality. At one point during work I left out some css because I literally could not see a very subtle light gray area in the mock up. It's totally unnoticeable in daily usage though.
 
@@ -25,7 +24,6 @@ For gaming, input lag is the most important number but it's often not explicitel
 
 ## Mouse
 
-![20231002-razer-deathadder-v2](//images.ctfassets.net/vt3fzpmlfg71/5W7JQGq3Sv4Nz0h40M3qGP/ea3ea500a6a1081aedc3788b85e94059/61C3xYVKtZL.jpg)
 
 Razer DeathAdder v2. This is actually my second DeathAdder after the first one I got more than a decade ago. I often read about Razer products having a high defect rate but that personally wasn't my experience at all, my first one only got a bit mushy with its left click after around 6-7 years of daily usage.
 
@@ -37,7 +35,7 @@ In terms of shape, it has an ergonomic contour and is slightly on the larger sid
 
 ## Keyboard
 
-![20231002-keyboard](//images.ctfassets.net/vt3fzpmlfg71/3bgZjSKJgLFLMILEH6h6VL/cf147857b12c40cc63efa3b047412bd6/F6I0sF-boAAn28d.jpg)
+[[keyboard]]
 
 Epomaker 84 with Akko Sakura and Cream Blue switches.
 I've written some posts regarding the modding process in the past. Whilst the individual prices of the raw parts are very affordable, the amount I've spent trying out various switches and keycaps, alongside time spent modding (like lubing, especially lubing) is too damn high.

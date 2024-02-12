@@ -14,7 +14,6 @@ It's pretty much a rite of passage for new developers to make a tech blog that's
 
 ## Overview
 
-![blog diagram](//images.ctfassets.net/vt3fzpmlfg71/7qkzrpXxxj2XL7738g4tYw/bc87ac26e9cb8359af391427b8c8b05d/blogdiagram__1_.png)
 
 I used Contentful for my headless CMS and Next.js as the framework for coding my blog. Builds are automatically triggered when either new commits are pushed to Github or when entries are published to Contentful. I used Vercel to statically build the site and host it.
 
@@ -22,7 +21,6 @@ My main goal was to make a site that was really fast. I knew the pain of navigat
 
 If you open Chrome dev tools on this page, disable the cache in the network tab and reload the posts page of this blog, you can observe how the JavaScript for connecting pages are loaded as well as JSON when hovering over posts.
 
-![ss_nextjs_prefetch_blog](//images.ctfassets.net/vt3fzpmlfg71/5e6sPt6MRLP2OL9YavveWd/47fb8241786753b22f2f7d60a59bac0b/prefetch-nextjs-blog.png)
 
 ## Getting Started
 
@@ -41,7 +39,6 @@ $ npm install @chakra-ui/react @emotion/react @emotion/styled framer-motion
 
 I created a space on Contentful for the blog, and a content model that serves as a structure for posts.
 
-![ss-contentful-content-model](//images.ctfassets.net/vt3fzpmlfg71/5wgLG4e2v0a6m4ThVOWKXb/22729ed2af680f286cd45716cb010f61/contentful-content-model.png)
 
 I then created an access token for the Content Delivery API and saved that as an environment variable (I used dotenv for this). Below's the code for creating a client that can invoke methods to access the data from the space.
 

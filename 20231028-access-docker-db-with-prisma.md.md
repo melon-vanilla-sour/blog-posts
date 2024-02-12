@@ -9,7 +9,6 @@ tags:
 created: 2023-10-28
 ---
 
-![20231028-mysql-prisma-docker](//images.ctfassets.net/vt3fzpmlfg71/1b2nK6cAVkVTGOPUC8KyTV/f991df589a62070898f88cafa38fb7fb/New_Project__1_.jpg)
 
 I've recently been working on this webapp and I ran into some obstacles when using prisma as my ORM to interact with mysql in the backend. Here's a quick write up that explains how I solved these issues.
 
