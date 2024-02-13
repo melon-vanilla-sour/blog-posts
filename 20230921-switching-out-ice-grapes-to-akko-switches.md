@@ -1,5 +1,5 @@
 ---
-title: Transferring Content from Rich Text to Markdown
+title: Switching Out Ice Grapes to Akko Switches
 category: programming
 tags: 
   - next.js
@@ -7,6 +7,7 @@ tags:
   - contentful
   - blog
 created: 2023-09-21
+draft: true
 ---
 
 ## some heading
