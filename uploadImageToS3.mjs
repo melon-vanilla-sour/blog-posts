@@ -49,7 +49,7 @@ function findImageReferences(markdownContent) {
 async function processMarkdownFiles(directory) {
   const files = fs.readdirSync(directory);
 
-  files.forEach((file) => {
+  files.forEach(async (file) => {
     const filePath = path.join(directory, file);
 
     if (fs.statSync(filePath).isDirectory()) {
@@ -60,24 +60,27 @@ async function processMarkdownFiles(directory) {
       let markdownContent = fs.readFileSync(filePath, 'utf-8');
       const imageReferences = findImageReferences(markdownContent);
 
-      imageReferences.forEach(async (imagePath) => {
 
+      for await (const imagePath of imageReferences) {
 
         const converted = tinify.fromFile(imagePath).convert({ type: ["image/webp"] });
         const extension = await converted.result().extension();
 
         const extensionRegex = /jpe?g|\.png|\.webp/;
         const originalExt = imagePath.match(extensionRegex)
-        imagePath = imagePath.replace(originalExt, extension)
-        await converted.toFile(imagePath);
+        const convertedImagePath = imagePath.replace(originalExt, extension)
+        await converted.toFile(convertedImagePath);
 
-        const absoluteImagePath = path.join(directory, imagePath);
+        const absoluteImagePath = path.join(directory, convertedImagePath);
         const s3Key = `${path.basename(absoluteImagePath)}`;
         await uploadImageToS3(absoluteImagePath, s3Key);
         const s3Url = `https://${bucketName}.s3.amazonaws.com/${s3Key}`;
         // Update the Markdown content to use S3 URL or customize as needed
+        console.log(imagePath)
+        console.log(s3Url)
         markdownContent = markdownContent.replace(imagePath, s3Url);
-      });
+      }
+
       // Update the Markdown file with new image references
       fs.writeFileSync(filePath, markdownContent, 'utf-8');
     }
