@@ -4,6 +4,7 @@ category: tech
 tags:
   - tech
 created: 2023-10-01
+draft: true
 ---
 
 Current setup as of October 2023.
