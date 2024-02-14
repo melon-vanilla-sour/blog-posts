@@ -7,6 +7,8 @@ tags:
 created: 2023-03-10
 ---
 
+![title](https://melon-sour-blog-images.s3.amazonaws.com/20230310-plaiceholder-title.jpeg)
+
 The slowest thing that loads on this blog are the images in each post. (This is currently true as of writing this post but probably not by the time I implement what's written here). The main problem is that images pop into white space as they load in and trigger a cumulative layout shift as they do so which can both be kinda jarring. This can be solved by putting a low resolution placeholder where the images would be. In this post I'm going to go through how to implement this using the plaiceholder library. The preliminary information regarding how this next.js blog is setup can be found in the post below.
 
 First install the plaiceholder library. This library takes an image and outputs data to create a blurry placeholder in different ways including css, svgs and blurhashes.

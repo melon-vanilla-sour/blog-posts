@@ -51,6 +51,7 @@ $ qmk compile -kb keychron/v1/ansi -km default
 
 Now all I had to do was install the new firmware into the keyboard. First I installed QMK Toolbox then loaded the ` keychron_v1_ansi_default.bin` firmware into it. Then I followed the [Keychron documentation](https://www.keychron.com/blogs/archived/how-to-factory-reset-or-flash-your-qmk-via-enabled-keychron-v1-keyboard) to flashing the keyboard which was basically as follows.
 
+![qmk toolbox](https://melon-sour-blog-images.s3.amazonaws.com/20240108-qmk-toolbox.jpeg)
 
 1. Hold `fn + J + Z` for 4 seconds to factory reset the keyboard then unplug the power.
 2. Hold the reset button under the spacebar.
