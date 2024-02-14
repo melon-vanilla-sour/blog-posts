@@ -63,10 +63,10 @@ async function processMarkdownFiles(directory) {
 
       for await (const imagePath of imageReferences) {
 
-        const converted = tinify.fromFile(imagePath).convert({ type: ["image/webp"] });
+        const converted = tinify.fromFile(imagePath).convert({ type: ["image/jpeg"] });
         const extension = await converted.result().extension();
 
-        const extensionRegex = /jpe?g|\.png|\.webp/;
+        const extensionRegex = /jpe?g|png|webp/;
         const originalExt = imagePath.match(extensionRegex)
         const convertedImagePath = imagePath.replace(originalExt, extension)
         await converted.toFile(convertedImagePath);
