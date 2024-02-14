@@ -1,5 +1,5 @@
 ---
-title: Using Docker MySQL Database with Prisma
+title: Issues When Using Docker MySQL Database with Prisma
 category: programming
 tags:
   - programming
