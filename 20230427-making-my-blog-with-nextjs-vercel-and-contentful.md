@@ -10,6 +10,8 @@ tags:
 created: 2023-04-27
 ---
 
+![blog diagram](https://melon-sour-blog-images.s3.amazonaws.com/20230427-blog-diagram.jpeg)
+
 It's pretty much a rite of passage for new developers to make a tech blog that's rarely updated so here's my personal attempt at it. I had to build a lot of seemingly simple features that would otherwise be included in most blogging frameworks e.g. a list of posts according to categories, so it was a great learning experience that I could recommend as a beginner-level project.
 
 ## Overview
@@ -21,6 +23,7 @@ My main goal was to make a site that was really fast. I knew the pain of navigat
 
 If you open Chrome dev tools on this page, disable the cache in the network tab and reload the posts page of this blog, you can observe how the JavaScript for connecting pages are loaded as well as JSON when hovering over posts.
 
+![nextjs prefetch](https://melon-sour-blog-images.s3.amazonaws.com/20230427-nextjs-prefetch.jpeg)
 
 ## Getting Started
 
@@ -39,6 +42,7 @@ $ npm install @chakra-ui/react @emotion/react @emotion/styled framer-motion
 
 I created a space on Contentful for the blog, and a content model that serves as a structure for posts.
 
+![contentful model](https://melon-sour-blog-images.s3.amazonaws.com/20230427-contentful-model.jpeg)
 
 I then created an access token for the Content Delivery API and saved that as an environment variable (I used dotenv for this). Below's the code for creating a client that can invoke methods to access the data from the space.
 
@@ -169,18 +173,22 @@ export const getStaticPaths = async () => {
 }
 ```
 
-Hosting on Vercel
+## Hosting on Vercel
+
 Here's the part where I finally get to realize my efforts. Vercel's made by the creators of Next so they make it really easy to deploy Next projects. I imported the git repository of this blog and Vercel automatically detects the correct settings it needs to install and build the project. The important step is to tell Vercel the necessary environment variables. In local development I set the place ID and access token in a .env file but it's good practice to not commit this to GitHub since it will expose my keys (and by extension access to my Contentful things). When Vercel builds the project, it will read the keys from here instead.
 published
 
-ss-vercel-environment-variables
+![vercel environment variables](https://melon-sour-blog-images.s3.amazonaws.com/20230427-vercel-environment-variables.jpeg)
 
-Automatic Rebuilds
+## Automatic Rebuilds
+
 By default Vercel will rebuild and host the project whenever I push new commits to the master branch of the remote repository. However I also want the blog to automatically update whenever I post new content. The idea is that you setup url endpoint on Vercel which Contentful will send POST request to on certain content updates. The official docs have a really good guide.
 published
 
-contentful-deploy-triggers
+![contentful deploy triggers](https://melon-sour-blog-images.s3.amazonaws.com/20230427-contentful-deploy-triggers.jpeg)
 
 By default Contentful triggers a deploy on every save which is totally unnecessary so I unchecked some triggers to create sensible settings.
-Conclusion
+
+## Conclusion
+
 And there you have it, you're reading a static blog that should load and transition incredibly fast. As you may have picked up from the code, I have to manually code a lot of basic features like pagination from the ground up. As such this is an incredibly fulfilling project since it challenges me to figure out how to code every feature I want on this site going forwards, and I also get the satisfaction of using something I've built myself. If anyone's thinking of a project to escape the dreaded tutorial hell, I fully recommend a blog like the one you're reading right now.

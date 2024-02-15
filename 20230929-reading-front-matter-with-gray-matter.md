@@ -9,6 +9,8 @@ tags:
 created: 2023-09-29
 ---
 
+![title](https://melon-sour-blog-images.s3.amazonaws.com/20230310-plaiceholder-title.jpeg)
+
 A while back I made the transition to [writing my blog posts in markdown format](/post/rendering-rich-text-from-contentful-in-nextjs) to reduce the dependency on any particular CMS. However I still had to input information like tags and categories through Contentful's form. I wanted to include all the meta-information for posts in the front matter so that everything was contained within one markdown file. Below is an example of this post's front matter in yaml.
 
 ```yaml
