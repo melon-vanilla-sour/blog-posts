@@ -9,6 +9,8 @@ tags:
 created: 2023-09-21
 ---
 
+![title](https://melon-sour-blog-images.s3.amazonaws.com/20230930-rich-text-to-markdown-title.jpeg)
+
 When I first started building this blog I decided to use Contentful's rich text input option for writing posts. This gave me a WYSIWYG editor that was fairly useable for most writing except for code. Unfortunately the UX for writing code is just terrible since the only thing indicating that a certain part of text is code, is the text becoming a different serif font. What I intended for code blocks sometimes cut off into two piece due to some line break I can't even see, and fixing indentation in the actual editor was an impossible task. My flow was to create and format code in VSCode and paste it only when everything was perfect in the IDE. Even then, this multi-step workflow was suboptimal when I needed to edit code later on. These issues when combined were pretty critical since I was planning to write a lot of code as a tech-based blog.
 
 I brainstormed several solutions, the nuclear option was to migrate from Contentful to another headless CMS with a more useable code editor. I looked through some top options like Sanity which is apparently 'built for developers' but editors aren't usually showcased very well on the websites and there was no way I was going to search through videos of people using CMSs out there. Besides a new CMS means an entirely new API I have to pull and parse the content from and this was a monumental task I didn't have the will power for.
