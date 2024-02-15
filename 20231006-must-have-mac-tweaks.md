@@ -7,6 +7,8 @@ tags:
 created: 2023-10-06
 ---
 
+![title](https://melon-sour-blog-images.s3.amazonaws.com/20231006-mac-tweaks-title.jpeg)
+
 My main desktops are all Windows (for gaming) but I use a Mac for dev work. However there were some tweaks I had to make to fix some pain points with the system. Here are 3 programs I pretty much consider essential when working on Mac OS.
 
 ## Maccy
