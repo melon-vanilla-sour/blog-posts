@@ -1,7 +1,7 @@
 *.png
 *.jpeg
 *.jpg
+*.webp
 .env
 *.js
-*.mjs
 node_modules

@@ -5,8 +5,9 @@ tags:
   - mechanical keyboard
   - tech
 created: 2023-04-27
-draft: true
 ---
+
+![honey keycaps](https://melon-sour-blog-images.s3.amazonaws.com/20220701-honey-keycaps.jpeg)
 
 I spend way too much time in front of a computer so I thought, why not invest in a good keyboard. It all started with me casually buying a generic mechanical board but before I knew it I was looking at cool artisan keycaps and myriad assortment of mechanical switches. It wasn't long before I knew I had to make one for myself.
 
@@ -15,7 +16,7 @@ I spend way too much time in front of a computer so I thought, why not invest in
 For the base I went for the Epomaker EP84 with Gateron Red switches. It's a hot-swappable 75% keyboard so function keys but no tenkeys. From my previous purchase I felt that tenkeys weren't useful enough to justify the size they take up but I needed function keys for the key real-estate they provide for coding and general shortcuts. At 7,500 yen as of mid 2022, it's fairly affordable and ready for modding straight out of the box.
 published
 
-!
+![vanilla epomaker](https://melon-sour-blog-images.s3.amazonaws.com/20220701-vanilla-epomaker.jpeg)
 
 For the switches I got the Tecsee Ice Grapes. They're a linear switch with an actuation force of 52 grams so right in-between Gateron Reds (45g) and Blacks (60g). I strongly considered tactile switches since they felt so good when I tested them at the store but I thought linears might be more suited for long-term use over the day. The Ice Grapes are great if you like a smooth travel with just the right bit of satisfying resistance.
 Finally for key caps I went with the XDA profile Honey and Milk keycaps. The PBT material gives a silky touch and the milky coloring pairs great with the optional honey accent
@@ -32,13 +33,13 @@ The key presses are like gliding a knife into soft butter. It's a smooth sink in
 
 For stabilizers I added some extra lube onto the exposed metal. There was some wobble on the stabilizer casing (the orange parts in the image) but this was easily remedied by wedging in a folded piece of card. The stabs sound … acceptable. They have a slight rattle on some areas and don't sound as clean as they could be so I'll probably get around to them in the future.
 
-!
+![levelling stabilizers](https://melon-sour-blog-images.s3.amazonaws.com/20220701-levelling-stabilizers.jpeg)
 
 ## Never Mind Totally Worth It
 
 The end result? I'm honestly more than satisfied. It looks, sounds and feels much better than my previous boards and it's feels great to use something I've researched and built myself.
 
-!
+![honey epomaker](https://melon-sour-blog-images.s3.amazonaws.com/20220701-honey-epomaker.jpeg)
 
 An unexpected side effect is that I'm way more motivated to work with my keyboard whether it be coding or writing these posts. There's something therapeutic about tapping away at the small hours with some music in the background.
 
