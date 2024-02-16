@@ -9,7 +9,7 @@ created: 2023-04-27
 
 A while back I built my first custom mechanical keyboard and decided to leave my stabilizers un-modded, my reasoning being that I thought the stabilizers were only accessible through the back and couldn't be bothered with disassembly after 6 hours of lubing switches.
 
-[Building My First Mechanical Keyboard](/20220701-building-my-first-mechanical-keyboard.md)
+[Building My First Mechanical Keyboard](/post/building-my-first-mechanical-keyboard)
 
 Turns out I was completely wrong and snap-in stabilizers can be taken out from the front after only removing the switch. And thus I decided to fix the stabilizer rattle (that annoying metal sound you get when you press down on stabilizer keys, most notably the space bar) that plagued me for the past 6 months.
 
