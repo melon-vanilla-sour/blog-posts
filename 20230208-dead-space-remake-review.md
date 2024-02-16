@@ -12,7 +12,7 @@ draft: true
 The Dead Space remake is something I've personally been waiting for as someone who considered 2 to be one of my favorite action-horror titles. I didn't get the chance to play the first installment so I  was excited to see the origin story of our engineer for the first time. The game held me all the way to the end, something which doesn't happen a lot these days, so here's my review of my experience. Disclaimer, because I haven't played the original my views on the remake aren't based on how it differs to the original, for better or worse.
 published
 
-![ishimura](./images/20230208-deadspace-ishimura.jpg)
+![ishimura](https://melon-sour-blog-images.s3.amazonaws.com/20230208-deadspace-ishimura.jpeg)
 
 ## Cut off their Limbs
 

@@ -1,12 +1,9 @@
 ---
-title: Making My Blog with Next.js, Vercel and Contentful
-category: programming
+title: Building My First Mechanical Keyboard
+category: tech
 tags:
-  - next.js
-  - blog
-  - contentful
-  - programming
-  - vercel
+  - mechanical keyboard
+  - tech
 created: 2023-04-27
 draft: true
 ---
