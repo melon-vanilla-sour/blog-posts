@@ -31,14 +31,14 @@ The PBT key caps have a smooth surface and have an XDA profile, I like the unifo
 
 ![akko switches](https://melon-sour-blog-images.s3.amazonaws.com/20230206-akko-switches.jpeg)
 
-Starting with the Cream Blues, these are tactile switches with an actuation force of 38g and tactile force of 53g which makes them easy to press whilst retaining a noticeable tactile click. They have a slightly shorter travel time distance of 3.5mm and as the name implies, have a creamy pitched sound.
+Starting with the [Cream Blues](https://en.akkogear.com/product/akko-v3-cream-blue-switch-45pcs/), these are tactile switches with an actuation force of 38g and tactile force of 53g which makes them easy to press whilst retaining a noticeable tactile click. They have a slightly shorter travel time distance of 3.5mm and as the name implies, have a creamy pitched sound.
 published
 
 ![akko cream blues](https://melon-sour-blog-images.s3.amazonaws.com/20230206-akko-cream-blues.jpeg)
 
-The other tactile switch are the Wine Whites with an actuation force of 36g and tactile force of 55g. Compared to the cream blues, they have a sharper, more pronounced tactile feel. It's difficult to say how effective the pre-lube is given that I don't have an unlubed set to compare with but they're good enough that I don't feel the need to do them my self.
+The other tactile switch are the [Wine Whites](https://en.akkogear.com/product/akko-cs-wine-white-switch-lubed-45pcs/) with an actuation force of 36g and tactile force of 55g. Compared to the cream blues, they have a sharper, more pronounced tactile feel. It's difficult to say how effective the pre-lube is given that I don't have an unlubed set to compare with but they're good enough that I don't feel the need to do them my self.
 
-Finally the Matcha Greens are linears with an actuation force of 50g. Not too much to say here, they're solid switches. After having experienced a variety of linears, tactiles and membrane switches I've come to realize I like light linears of around 45-50g the most. I spend a lot of time using the keyboard whilst either gaming, coding or just typing normally so I find the lighter actuation force to be comfortable on the fingers throughout the day.
+Finally the [Matcha Greens](https://en.akkogear.com/product/akko-cs-matcha-green-switch/) are linears with an actuation force of 50g. Not too much to say here, they're solid switches. After having experienced a variety of linears, tactiles and membrane switches I've come to realize I like light linears of around 45-50g the most. I spend a lot of time using the keyboard whilst either gaming, coding or just typing normally so I find the lighter actuation force to be comfortable on the fingers throughout the day.
 
 For all three switches I'm fairly happy with their feel and cost effectiveness (especially considering the labor offset of pre-applied lube) but the one downside for me was how loud they were compared to my current Ice Grapes. The Ice Grapes are on the lower end in pitch and already sound fairly loud in a quiet office environment. The three Akko switches are all higher pitched and noticeably louder when the keys bottom out. The sound profile of a keyboard depends on the full build (such as the material of the key caps or physical space in the case), so I suspect that removing the tempest tape mod and apply the pe foam mod would make it more muted and to my liking.
 
