@@ -4,7 +4,7 @@ category: tech
 tags:
   - mechanical keyboard
   - tech
-created: 2023-04-27
+created: 2023-06-26
 ---
 
 A while back I built my first custom mechanical keyboard and decided to leave my stabilizers un-modded, my reasoning being that I thought the stabilizers were only accessible through the back and couldn't be bothered with disassembly after 6 hours of lubing switches.

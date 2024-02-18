@@ -4,7 +4,7 @@ category: tech
 tags:
   - mechanical keyboard
   - tech
-created: 2023-04-27
+created: 2022-07-01
 ---
 
 ![honey keycaps](https://melon-sour-blog-images.s3.amazonaws.com/20220701-honey-keycaps.jpeg)

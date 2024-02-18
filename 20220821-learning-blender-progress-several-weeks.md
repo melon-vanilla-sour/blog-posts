@@ -4,7 +4,7 @@ category: digital art
 tags:
   - digital art
   - blender
-created: 2023-10-01
+created: 2022-08-21
 ---
 
 My first attempt at making a donut was based off a 1 minute tutorial so naturally the next step was to go through the full 16-part guide and wow did I miss a lot. The biggest takeaways were various sculpting and modelling techniques, the three-point lighting method and geometry nodes. I'm going to have to look up proper modelling techniques at some point because I usually end up with weird artifacts like internal geometry and duplicated vertices without a clear idea of how they're popping up.
