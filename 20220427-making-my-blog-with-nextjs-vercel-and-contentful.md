@@ -10,7 +10,7 @@ tags:
 created: 2022-04-27
 ---
 
-![blog diagram](https://melon-sour-blog-images.s3.amazonaws.com/20230427-blog-diagram.jpeg)
+![blog diagram](https://melon-sour-blog-images.s3.amazonaws.com/20220427-blog-diagram.jpeg)
 
 It's pretty much a rite of passage for new developers to make a tech blog that's rarely updated so here's my personal attempt at it. I had to build a lot of seemingly simple features that would otherwise be included in most blogging frameworks e.g. a list of posts according to categories, so it was a great learning experience that I could recommend as a beginner-level project.
 
