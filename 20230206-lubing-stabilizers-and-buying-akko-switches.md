@@ -32,7 +32,6 @@ The PBT key caps have a smooth surface and have an XDA profile, I like the unifo
 ![akko switches](https://melon-sour-blog-images.s3.amazonaws.com/20230206-akko-switches.jpeg)
 
 Starting with the [Cream Blues](https://en.akkogear.com/product/akko-v3-cream-blue-switch-45pcs/), these are tactile switches with an actuation force of 38g and tactile force of 53g which makes them easy to press whilst retaining a noticeable tactile click. They have a slightly shorter travel time distance of 3.5mm and as the name implies, have a creamy pitched sound.
-published
 
 ![akko cream blues](https://melon-sour-blog-images.s3.amazonaws.com/20230206-akko-cream-blues.jpeg)
 

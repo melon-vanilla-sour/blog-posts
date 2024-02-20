@@ -15,12 +15,12 @@ My first attempt at making a donut was based off a 1 minute tutorial so naturall
 
 Here's a pancake I made with no tutorial. The modelling and generated textures are kinda off but I'd say it's decent for something I cobbled together from scratch. I realized modelling food is really fun because it's easy to know when you're doing something right. When something looks off in an architectural scene I have no idea what's causing it or how to fix it but with food it simply becomes more/less like something I actually want to eat.
 
-![hell](https://melon-sour-blog-images.s3.amazonaws.com/20220821-hell.jpeg)
+![pancake](https://melon-sour-blog-images.s3.amazonaws.com/20220821-pancake.jpeg)
 
 This is a recreation of hell from the manga Chainsaw Man. Here's an idea of what I was going for. In the manga the sky/ceiling comes across as bright and serene but I wanted to add an ominous element to the otherwise peaceful fields so I opted for a darker shade of blue. I made the grass with the hair particle system but it took forever to render a single frame so I'm going to have check out a cheaper method when animating a scene.
 
-![legendary](https://melon-sour-blog-images.s3.amazonaws.com/20220821-legendary.jpeg)
+![hell](https://melon-sour-blog-images.s3.amazonaws.com/20220821-hell.jpeg)
 
 Finally this is a model of the legend rank icon from Hearthstone. I'm planning on using this for the header image of deck guides I'm currently writing. The random reflective texture was made with shader nodes.
 
-![pancake](https://melon-sour-blog-images.s3.amazonaws.com/20220821-pancake.jpeg)
+![legendary](https://melon-sour-blog-images.s3.amazonaws.com/20220821-legendary.jpeg)

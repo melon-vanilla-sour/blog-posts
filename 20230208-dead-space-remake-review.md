@@ -9,7 +9,6 @@ created: 2023-02-08
 ---
 
 The Dead Space remake is something I've personally been waiting for as someone who considered 2 to be one of my favorite action-horror titles. I didn't get the chance to play the first installment so I  was excited to see the origin story of our engineer for the first time. The game held me all the way to the end, something which doesn't happen a lot these days, so here's my review of my experience. Disclaimer, because I haven't played the original my views on the remake aren't based on how it differs to the original, for better or worse.
-published
 
 ![ishimura](https://melon-sour-blog-images.s3.amazonaws.com/20230208-deadspace-ishimura.jpeg)
 
@@ -20,12 +19,10 @@ Dead Space is a horror game with action elements with clear inspirations from ga
 ![cut limbs](https://melon-sour-blog-images.s3.amazonaws.com/20230208-deadspace-cut-limbs.jpeg)
 
 As the 4th entry in the series, the dismemberment mechanic isn't anything new but that doesn't stop it from being insanely fun to do. There are 7 obtainable tools at your disposal and a good variety of enemies to test them on, which keeps the gameplay loop as fresh as you want to make it. Spinning a circular saw to grind off legs or lobbing a wall of hydrazine to burn hoards never got old in my roughly 11 hour playthrough. I believe the hallmark of an engaging horror game is how many elements of fun they can fit on top of a strictly scary foundation. Pulling a metal pipe of a wall to impale an enemy is fun. Desecrating corpses, dead or alive, with your foot is fun.
-published
 
 ![necromorph](https://melon-sour-blog-images.s3.amazonaws.com/20230208-deadspace-necromorph.jpeg)
 
 Now you might be wondering how a game could possibly be scary when you're playing a guy as badass as Isaac but there is absolutely nothing to fear in that regard. The improved graphics with DLSS support create an absolutely sinister environment in which the narrative prods you through. Classic cinematic horrors combined with random encounters create a tense journey in the isolation of space, because of the implication. Dead Space blends just the right amount of alien dread and alien-killing-tools to deliver a thrilling ride.
-published
 
 ![enemy elevator](https://melon-sour-blog-images.s3.amazonaws.com/20230208-deadspace-enemy-elevator.jpeg)
 

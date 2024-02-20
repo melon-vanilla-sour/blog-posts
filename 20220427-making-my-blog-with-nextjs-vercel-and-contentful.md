@@ -148,12 +148,8 @@ function Posts({
 ```
 
 (How I render the card for each post and pagination is out of the scope of but you get the general idea). Each card is essentially a link that goes to the paths of each post I prepare in the next section.
-Rendering each Post
-post
-published
 
-Rendering Rich Text from Contentful in Next.js
-programming
+[Rendering Rich Text from Contentful in Next.js](/post/rendering-rich-text-from-contentful-in-nextjs)
 
 I've conveniently already written about how I render the content of each post here. Although not in the article, I prepare a path for each post using its slug, this is what the cards link to.
 
@@ -176,14 +172,12 @@ export const getStaticPaths = async () => {
 ## Hosting on Vercel
 
 Here's the part where I finally get to realize my efforts. Vercel's made by the creators of Next so they make it really easy to deploy Next projects. I imported the git repository of this blog and Vercel automatically detects the correct settings it needs to install and build the project. The important step is to tell Vercel the necessary environment variables. In local development I set the place ID and access token in a .env file but it's good practice to not commit this to GitHub since it will expose my keys (and by extension access to my Contentful things). When Vercel builds the project, it will read the keys from here instead.
-published
 
 ![vercel environment variables](https://melon-sour-blog-images.s3.amazonaws.com/20230427-vercel-environment-variables.jpeg)
 
 ## Automatic Rebuilds
 
 By default Vercel will rebuild and host the project whenever I push new commits to the master branch of the remote repository. However I also want the blog to automatically update whenever I post new content. The idea is that you setup url endpoint on Vercel which Contentful will send POST request to on certain content updates. The official docs have a really good guide.
-published
 
 ![contentful deploy triggers](https://melon-sour-blog-images.s3.amazonaws.com/20230427-contentful-deploy-triggers.jpeg)
 

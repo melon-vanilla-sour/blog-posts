@@ -14,7 +14,6 @@ I spend way too much time in front of a computer so I thought, why not invest in
 ## The Parts
 
 For the base I went for the [Epomaker EP84](https://epomaker.com/products/epomaker-ep84?variant=31719559856201) with Gateron Red switches. It's a hot-swappable 75% keyboard so function keys but no tenkeys. From my previous purchase I felt that tenkeys weren't useful enough to justify the size they take up but I needed function keys for the key real-estate they provide for coding and general shortcuts. At 7,500 yen as of mid 2022, it's fairly affordable and ready for modding straight out of the box.
-published
 
 ![vanilla epomaker](https://melon-sour-blog-images.s3.amazonaws.com/20220701-vanilla-epomaker.jpeg)
 
