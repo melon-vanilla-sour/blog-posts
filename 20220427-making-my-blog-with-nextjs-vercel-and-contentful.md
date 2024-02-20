@@ -59,7 +59,7 @@ export const buildClient = () => {
 
 ## Creating the Posts Page
 
-Inside Next.js, under src/pages I made two directories, post/[slug].tsx and posts/[page].tsx. Next automatically creates a route for anything inside the pages directory and the square brackets indicate a dynamic route which means a route who's url will change depending on some factors. In this case the posts page will have a variable number that indicates the pagination and each unique post page will have it's slug in the url. The intent is for the first posts page to have a url like melonsour.com/posts/1 that shows a list of posts. Clicking on any of them will transition to the actual post with a url like melonsour.com/post/the-slug-of-the-post.
+Inside Next.js, under src/pages I made two directories, `post/[slug].tsx` and `posts/[page].tsx`. Next automatically creates a route for anything inside the pages directory and the square brackets indicate a dynamic route which means a route who's url will change depending on some factors. In this case the posts page will have a variable number that indicates the pagination and each unique post page will have it's slug in the url. The intent is for the first posts page to have a url like melonsour.com/posts/1 that shows a list of posts. Clicking on any of them will transition to the actual post with a url like `melonsour.com/post/the-slug-of-the-post`.
 
 I first made the page that displayed a list of posts. Next has two methods that's used for creating static content, `getStaticPaths` and `getStaticProps`. When `getStaticPaths` is used in a page with dynamic routes, Next pre-renders all the paths that are specified in the method. The methods returns an array named path which is populated with
 `{ params: { <key>:<some value>} }` objects where the key is the variable used in dynamic route. Each value indicates a path that Next will prepare so in my case I want the array to be filled with
@@ -110,7 +110,7 @@ export const getStaticProps = async ({ params }: { params: { page: number } }) =
 }
 ```
 
-I use the skip and limit keys to obtain the correct posts for any particular pagination. For example on page 2, I want to obtain posts 11 to 20 from Contentful. I do that by skipping the first `(2-1)\*10=10` posts and limit the request to the next 10 posts from that point on. Finally I pass all these to the render function below to create a grid of posts that you probably saw right before clicking on this article.
+I use the skip and limit keys to obtain the correct posts for any particular pagination. For example on page 2, I want to obtain posts 11 to 20 from Contentful. I do that by skipping the first `(2-1)*10=10` posts and limit the request to the next 10 posts from that point on. Finally I pass all these to the render function below to create a grid of posts that you probably saw right before clicking on this article.
 
 ```typescript
 function Posts({
