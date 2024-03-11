@@ -9,6 +9,8 @@ tags:
 created: 2023-10-28
 ---
 
+![title](https://melon-sour-blog-images.s3.amazonaws.com/20231028-docker-prisma.jpeg)
+
 I've recently been working on this webapp and I ran into some obstacles when using prisma as my ORM to interact with mysql in the backend. Here's a quick write up that explains how I solved these issues.
 
 ## MySQL Privilege Error when Migrating
